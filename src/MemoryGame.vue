@@ -1,5 +1,5 @@
 <template>
-  <div class="game-panel">
+  <div class="game-panel" id="App">
     <ScoreBoard />
     <ChessBoard />
     <GameStatus />
